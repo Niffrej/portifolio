@@ -17,19 +17,19 @@ function App() {
     },
     {
       title: "Portifolio",
-      imgSrc: portifolioPic, // Substitua pela URL da imagem do projeto
+      imgSrc: portifolioPic, 
       demoLink: "https://portifolio-nit682o77-niffrejs-projects.vercel.app/",
       codeLink: "https://github.com/Niffrej/portifolio"
     },
     {
       title: "Desafio Landing Page",
-      imgSrc: desafioPic, // Substitua pela URL da imagem do projeto
+      imgSrc: desafioPic, 
       demoLink: "https://niffrej.github.io/desafio-Landing-Page/",
       codeLink: "https://github.com/Niffrej/desafio-Landing-Page"
     },
     {
       title: "E-commerce",
-      imgSrc: ecommercePic, // Substitua pela URL da imagem do projeto
+      imgSrc: ecommercePic, 
       demoLink: "https://github.com/Niffrej/simple-ecommerce",
       codeLink: "https://github.com/Niffrej/simple-ecommerce"
     },
