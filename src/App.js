@@ -18,7 +18,7 @@ function App() {
     {
       title: "Portifolio",
       imgSrc: portifolioPic, // Substitua pela URL da imagem do projeto
-      demoLink: "https://example.com/demo2",
+      demoLink: "https://portifolio-nit682o77-niffrejs-projects.vercel.app/",
       codeLink: "https://github.com/usuario/projeto2"
     },
     {
