@@ -65,6 +65,13 @@ body {
   text-align: center;
 }
 
+.skills h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
 .skills .icons img {
   width: 100px;
   margin: 10px;
@@ -119,6 +126,13 @@ body {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
+}
+
+.projects h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-align: center;
 }
 
 .project-card {

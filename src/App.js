@@ -49,7 +49,7 @@ function App() {
 
       <section className="skills">
         <div className="container">
-          <h2>Skills</h2>
+          <h1>Skills</h1>
           <div className="icons">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
@@ -65,7 +65,7 @@ function App() {
 
       <section className="projects">
         <div className="container">
-          <h2>Meus Projetos</h2>
+          <h1>Meus Projetos</h1>
           <div className="project-container">
             {projects.map((project, index) => (
               <div className="project-card" key={index}>
